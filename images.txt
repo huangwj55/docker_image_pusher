@@ -1,1 +1,2 @@
 ghcr.io/home-assistant/home-assistant:stable
+rustdesk/rustdesk-server
